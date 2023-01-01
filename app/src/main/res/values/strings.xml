@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DeSTiny</string>
+    <string name="balance">Balance</string>
+    <string name="topup">Top up</string>
+    <string name="done">Done</string>
+    <string name="confirm">Confirm</string>
+    <string name="add">+</string>
+    <string name="detail">></string>
+    <string name="bank">Bank Account</string>
+    <string name="minimumTopup">The minimum amount is 10</string>
+    <string name="addBankAcount">Link New Bank Account</string>
+    <string name="bankInfo">Bank Account Information</string>
+
+</resources>
